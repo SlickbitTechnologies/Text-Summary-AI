@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Arabic",
+    "dir": "rtl"
+  },
+  {
+    "title": "Bengali",
+    "dir": "ltr"
+  },
+
+  {
+    "title": "Chinese",
+    "dir": "ltr"
+  },
+  {
+    "title": "French",
+    "dir": "ltr"
+  },
+  {
+    "title": "German",
+    "dir": "ltr"
+  },
+  {
+    "title": "Hindi",
+    "dir": "ltr"
+  },
+  {
+    "title": "Italian",
+    "dir": "ltr"
+  },
+  {
+    "title": "Kanada",
+    "dir": "ltr"
+  },
+  {
+    "title": "Malayalam",
+    "dir": "ltr"
+  },
+  {
+    "title": "Tamil",
+    "dir": "ltr"
+  },
+  {
+    "title": "Telugu",
+    "dir": "ltr"
+  },
+  {
+    "title": "Urdu",
+    "dir": "rtl"
+  }
+]
